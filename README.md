@@ -15,5 +15,5 @@
 
 ## Example
 
-    [Example](./example.png)
+   ![Example](./example.png)
 

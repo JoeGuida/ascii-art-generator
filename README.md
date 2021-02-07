@@ -15,5 +15,5 @@
 
 ## Example
 
-    ![Example Image](example.png?raw=true)
+    ![Example](./example.png)
 
